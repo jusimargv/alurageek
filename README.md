@@ -82,4 +82,4 @@
 3. **Remover Produto**: Clique no ícone da lixeira para remover um produto.
 
 ---
-Desenvolvido por Alura Latam
+Desenvolvido por Dev_Jusimar.
