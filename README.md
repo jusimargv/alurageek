@@ -32,7 +32,7 @@
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/alurageek.git
+   git clone https://github.com/jusimargv/alurageek.git
    ```
 
 2. Navegue até o diretório do projeto:
